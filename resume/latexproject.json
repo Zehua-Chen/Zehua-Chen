@@ -1,0 +1,9 @@
+{
+  "latex": "xelatex",
+  "entry": "index.tex",
+  "includes": [
+    "projects/",
+    "experiences/",
+    "config/"
+  ]
+}
