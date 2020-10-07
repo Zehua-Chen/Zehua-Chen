@@ -2,12 +2,16 @@
 \projectrole{Visualizer Developer, Visualizer Lead - Unity, C\#}
 
 \begin{itemize}
-  \item Designed systems that playback game logs to help participants visualize
-  the performance of their AIs
-  \item Developed and tested a reusable JSON parser with async APIs
-  to improve the startup time of the visualizer
-  \item Creating different IO handlers for browser and desktop build
-  \item Assigned new developers to roles based on expertise and interest
-  to help the project move forward, and managing their contributions through
-  Github
+  \item Make the tokens animate between game turns by implementing a message
+  dispatch system
+  \item Enable the visualizer to communicate with the backend by implementing
+  a custom JSON parser that has more features than Unity's builtin JSON parser,
+  using data structures like dictionaries, list, and stack
+  \item Enable the visualizer to stream data from the backend by writing a
+  WebSocket listener
+  \item Reduced startup time by dividing JSON parsing to multiple threads
+  \item Produced a feature-rick project by dividing work between multiple
+  developers
+  \item Ensured product quality by creating a modular architecture, writing
+  unit tests in Unity and create manual tests
 \end{itemize}
