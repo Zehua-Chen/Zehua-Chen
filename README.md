@@ -2,7 +2,7 @@
 
 ## My Work
 
-### Libraries
+### Reinvented Wheels
 
 - [swift-argparse](https://github.com/Zehua-Chen/swift-argparse.git): argument
   parser for Swift
@@ -13,3 +13,14 @@
   graphics math for C++
 - [cpp-threadpool](https://github.com/Zehua-Chen/cpp-threadpool): thread pool
   for C++
+
+### Notes
+
+- [concept-notes](https://github.com/Zehua-Chen/concept-notes): notes for
+  concepts in different topics
+- [language-notes](https://github.com/Zehua-Chen/language-notes): notes for
+  programming languages
+- [framework-notes](https://github.com/Zehua-Chen/framework-notes): notes for
+  frameworks and tools
+- [blender-notes](https://github.com/Zehua-Chen/framework-notes): notes for
+  Blender
