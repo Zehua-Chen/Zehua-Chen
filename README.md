@@ -1,4 +1,9 @@
-# Zehua Chen
+# Hi there!
+
+## Education
+
+1. CS + LING at University of Illinois at Urbana Champaign, Fall 2017 to Spring
+   2021
 
 ## My Work
 
