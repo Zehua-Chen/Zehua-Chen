@@ -1,7 +1,0 @@
-{
-  "latex": "xelatex",
-  "entry": "index.tex",
-  "includes": [
-    "contents/"
-  ]
-}
