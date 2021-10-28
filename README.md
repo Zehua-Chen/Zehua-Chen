@@ -2,8 +2,9 @@
 
 ## Education
 
-1. CS + LING at University of Illinois at Urbana Champaign, Fall 2017 to Spring
-   2021
+1. Bachelor of CS + LING at University of Illinois at Urbana Champaign, Fall
+   2017 to Spring 2021
+2. Master of CS at Columbia University, Fall 2021 to Fall 2022
 
 ## My Work
 
