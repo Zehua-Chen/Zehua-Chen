@@ -8,6 +8,13 @@
 
 ## My Work
 
+### Web Apps
+
+- [Personal Homepage](https://github.com/Zehua-Chen/personal-homepage)
+- [Cooking](https://github.com/Zehua-Chen/cooking)
+- [Multiplayer Tic Tac Toe](https://github.com/Zehua-Chen/multiplayer-tic-tac-toe)
+- [See if Your Eyes are Misaligned](https://github.com/Zehua-Chen/eye-axis-adjustment)
+
 ### Reinvented Wheels
 
 - [swift-argparse](https://github.com/Zehua-Chen/swift-argparse.git): argument
