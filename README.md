@@ -1,6 +1,8 @@
 # Hi there!
 
-## I am Student and Searching for an Internship!
+## I am Student!
+
+👀 Currently I am seeking a software engineering internship for summer 2022! Wish me luck!
 
 ### Education
 
@@ -21,7 +23,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-I focus frontend development, but also do game development as a hobby.
+I 🍳 focus frontend development, but also do game development as a hobby.
 
 ## Connect with Me!
 
