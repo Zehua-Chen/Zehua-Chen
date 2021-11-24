@@ -2,12 +2,13 @@
 
 ## I am Student!
 
-👀 Currently I am seeking a software engineering internship for summer 2022! Wish me luck!
+👀 Currently I am **seeking** a software engineering **internship** for **summer
+2022**! Wish me luck!
 
 ### Education
 
-1. **Bachelor** of **CS** + LING at **University of Illinois at Urbana Champaign**, Fall
-   2017 to Spring 2021
+1. **Bachelor** of **CS** + LING at **University of Illinois at Urbana
+   Champaign**, Fall 2017 to Spring 2021
 2. **Master** of **CS** at **Columbia University**, Fall 2021 to Fall 2022
 
 ### Skills
@@ -59,4 +60,5 @@ I focus on front-end development but also do game development as a hobby.
 ### More
 
 To find more about my work, visit [Github](https://github.com/Zehua-Chen),
-[my personal homepage](https://zehua-chen-2021.netlify.app/) or **see the pinned repos below**
+[my personal homepage](https://zehua-chen-2021.netlify.app/) or **see the pinned
+repos below**
