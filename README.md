@@ -23,7 +23,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-I focus frontend development, but also do game development as a hobby.
+I focus on front-end development but also do game development as a hobby.
 
 ## Connect with Me!
 
@@ -43,7 +43,7 @@ I focus frontend development, but also do game development as a hobby.
   personal homepage
 - [Cooking](https://github.com/Zehua-Chen/cooking): my own recipes (in Chinese)
 - [Conway Game of Life](https://github.com/Zehua-Chen/conway-game-of-life):
-  conway game of life in Haskell
+  Conway game of life in Haskell
 
 ### Notes
 
