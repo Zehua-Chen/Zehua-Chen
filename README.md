@@ -43,8 +43,6 @@ I focus on front-end development but also do game development as a hobby.
 - [Personal Homepage](https://github.com/Zehua-Chen/personal-homepage): my
   personal homepage
 - [Cooking](https://github.com/Zehua-Chen/cooking): my own recipes (in Chinese)
-- [Conway Game of Life](https://github.com/Zehua-Chen/conway-game-of-life):
-  Conway game of life in Haskell
 
 ### Notes
 
