@@ -40,8 +40,8 @@ I focus on front-end development but also do game development as a hobby.
 
 ### Web
 
-- [Personal Homepage](https://github.com/Zehua-Chen/personal-homepage): my
-  personal homepage
+- [Portfolio](https://github.com/Zehua-Chen/portfolio): my
+  portfolio website
 - [Cooking](https://github.com/Zehua-Chen/cooking): my own recipes (in Chinese)
 
 ### Notes
