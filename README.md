@@ -46,6 +46,11 @@ I focus on front-end development but also do game development as a hobby.
 
 ### Notes
 
+My notes are hosted by
+[Notion](https://zehua-chen-personal.notion.site/Programming-2c4dcd1466c74752b39b7f4ff96690a2)
+
+#### Legacy
+
 - [concept-notes](https://github.com/Zehua-Chen/concept-notes): notes for
   concepts in different topics
 - [language-notes](https://github.com/Zehua-Chen/language-notes): notes for
