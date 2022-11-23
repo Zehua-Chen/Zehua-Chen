@@ -1,10 +1,5 @@
 # Hi there!
 
-## I am Student!
-
-👀 Currently I am **seeking** a full-time software engineering position for
-**starting in late December 2022 or early Janurary 2023**! Wish me luck!
-
 ### Education
 
 1. **Bachelor** of **CS** + LING at **University of Illinois at Urbana
