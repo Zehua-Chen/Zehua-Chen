@@ -1,5 +1,9 @@
 # Hi there!
 
+### Experiences
+
+- Full stack developer: **IXL Learning**, Janurary 2023 - present  
+
 ### Education
 
 1. **Bachelor** of **CS** + LING at **University of Illinois at Urbana
@@ -13,11 +17,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 I focus on front-end development but also do game development as a hobby.
@@ -43,17 +49,6 @@ I focus on front-end development but also do game development as a hobby.
 
 My notes are hosted by
 [Notion](https://zehua-chen-personal.notion.site/Programming-2c4dcd1466c74752b39b7f4ff96690a2)
-
-#### Legacy
-
-- [concept-notes](https://github.com/Zehua-Chen/concept-notes): notes for
-  concepts in different topics
-- [language-notes](https://github.com/Zehua-Chen/language-notes): notes for
-  programming languages
-- [framework-notes](https://github.com/Zehua-Chen/framework-notes): notes for
-  frameworks and tools
-- [blender-notes](https://github.com/Zehua-Chen/framework-notes): notes for
-  Blender
 
 ### More
 
