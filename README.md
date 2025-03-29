@@ -2,7 +2,8 @@
 
 ### Experiences
 
-- Full stack developer: **IXL Learning**, Janurary 2023 - present  
+- Software Engineer: **IXL Learning**, Janurary 2023 - Feburary 2025
+- Senior Software Engineer: **IXL Learning**, Feburary 2025 - present
 
 ### Education
 
@@ -44,11 +45,6 @@ I focus on front-end development but also do game development as a hobby.
 
 - [Portfolio](https://github.com/Zehua-Chen/portfolio): my portfolio website
 - [Cooking](https://github.com/Zehua-Chen/cooking): my own recipes (in Chinese)
-
-### Notes
-
-My notes are hosted by
-[Notion](https://zehua-chen-personal.notion.site/Programming-2c4dcd1466c74752b39b7f4ff96690a2)
 
 ### More
 
