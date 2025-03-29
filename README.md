@@ -41,13 +41,6 @@ I focus on front-end development but also do game development as a hobby.
 
 ## What am I Working On?
 
-### Web
-
-- [Portfolio](https://github.com/Zehua-Chen/portfolio): my portfolio website
-- [Cooking](https://github.com/Zehua-Chen/cooking): my own recipes (in Chinese)
-
-### More
-
 To find more about my work, visit [Github](https://github.com/Zehua-Chen),
 [my personal homepage](https://zehua-chen-2021.netlify.app/) or **see the pinned
 repos below**
